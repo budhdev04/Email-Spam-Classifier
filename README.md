@@ -39,14 +39,17 @@ This is a **Spam Detection Web Application** built with **Python**, **scikit-lea
 
 ---
 
+
+---
+
 ## 💻 **Setup Instructions**
 
 Follow these steps to run the app locally:
 
 1. **Clone the repository**
 
-
-git clone https://github.com/yourusername/spam-detection-app.git
+-bash
+git clone https://github.com/budhdev04/spam-detection-app.git
 cd spam-detection-app
 
 2. **Install dependencies**
