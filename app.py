@@ -31,7 +31,7 @@ st.markdown("""
 
 # Title and subheader
 st.title("📧 Spam Detection Web App")
-st.subheader("🔍 Check if a message is Spam or Not Spam instantly")
+st.subheader("🔍 Check if a mail(message) is Spam or Not Spam instantly")
 
 # Sidebar
 st.sidebar.title("About")
