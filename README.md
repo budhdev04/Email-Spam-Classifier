@@ -64,3 +64,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 4. The app will open at http://localhost:8501 in your browser.
+
+
+
+
+Live Link- https://email-spam-classifier-budh.streamlit.app/
