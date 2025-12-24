@@ -56,6 +56,6 @@ if st.button("Predict"):
 st.markdown("""
 <hr>
 <p style='text-align: center;'>
-    Developed by <b>Budhdev Kumar</b> | 🌐 <a href='https://https://github.com/budhdev04'>GitHub</a>
+    Developed by <b>Budhdev Kumar</b> | 🌐 <a href='https://github.com/budhdev04'>GitHub</a>
 </p>
 """, unsafe_allow_html=True)
